@@ -1,0 +1,25 @@
+{
+    "Room":
+    [
+        {
+            "pk_Room_ID": "ATC405",
+            "Capacity": 30
+        },
+        {
+            "pk_Room_ID": "BA502",
+            "Capacity": 24
+        },
+        {
+            "pk_Room_ID": "AMDC301",
+            "Capacity": 35
+        },
+        {
+            "pk_Room_ID": "EN310",
+            "Capacity": 30
+        },
+        {
+            "pk_Room_ID": "ATC101",
+            "Capacity": 300
+        }
+    ]
+}

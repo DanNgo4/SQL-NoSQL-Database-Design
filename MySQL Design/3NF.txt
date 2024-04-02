@@ -1,0 +1,3 @@
+- there are no reapeating groups, all tables are in 1NF
+- in all tables, there are no partial dependencies -> 2NF
+- in all tables, there are no transitive dependencies -> 3NF

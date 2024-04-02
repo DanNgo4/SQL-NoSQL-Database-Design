@@ -1,0 +1,22 @@
+[
+    {
+        "pk_Unit_ID": "COS20007",
+        "fk_Convener_ID": "1876543",
+        "Unit_name": "Object Oriented Programming"
+    },
+    {
+        "pk_Unit_ID": "SWE30009",
+        "fk_Convener_ID": "1876543",
+        "Unit_name": "Software Testing and Reliability"
+    },
+    {
+        "pk_Unit_ID": "TNE30023",
+        "Convener_ID": "1245678",
+        "Unit_name": "Advanced Switching"
+    },
+    {
+        "pk_Unit_ID": "COS20015",
+        "fk_Convener_ID": "1245678",
+        "Unit_name": "Fundamentals of Data Management"
+    }
+]

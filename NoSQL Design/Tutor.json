@@ -1,0 +1,62 @@
+{
+    "Tutor":
+    [
+        {
+            "pk_Tutor_ID": "1056321",
+            "First_name": "John",
+            "Last_name": "Clark",
+            "Nationality": "Australian",
+            "Gender": "Male",
+            "Email": "1256321@swin.edu.au",
+            "Phone_number": "0456365213",
+            "Highest_qualification": "Master of Data Science"
+        },
+        {
+            "pk_Tutor_ID": "1034567",
+            "First_name": "Linda",
+            "Last_name": "Li",
+            "Nationality": "Chinese",
+            "Gender": "Female",
+            "DOB": "1995-06-23",
+            "Email": "1034567@swin.edu.au",
+            "Phone_number": 
+                ["0435217896",
+                 "0421653956"
+                ],
+            "Highest_qualification": "PhD of Information System"
+        },
+        {
+            "pk_Tutor_ID": "1012345",
+            "First_name": "Michael",
+            "Last_name": "Martin",
+            "Nationality": "American",
+            "Gender": "Other",
+            "DOB": "1992-02-24",
+            "Email": "1012345@swin.edu.au",
+            "Phone_number": "0416596324",
+            "Highest_qualification": "PhD of ICT"
+        },
+        {
+            "pk_Tutor_ID": "1098765",
+            "First_name": "Ishaan",
+            "Last_name": "Patel",
+            "Nationality": "Indian",
+            "Gender": "Male",
+            "DOB": "2000-09-29",
+            "Email": "1098765@swin.edu.au",
+            "Phone_number": "0425369852",
+            "Highest_qualification": "PhD of Computer Science"
+        },
+        {
+            "pk_Tutor_ID": "1456721",
+            "First_name": "Grace",
+            "Last_name": "Thompson",
+            "Nationality": "Australian",
+            "Gender": "Female",
+            "DOB": "1976-12-02",
+            "Email": "1456721@swin.edu.au",
+            "Phone_number": "0415632025",
+            "Highest_qualification": "Master of Cyber Security"
+        }
+    ]
+}

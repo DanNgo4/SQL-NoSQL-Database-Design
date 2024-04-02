@@ -1,0 +1,24 @@
+[
+    {
+        "pk_Convener_ID": "1876543",
+        "First_name": "Henry",
+        "Last_name": "McCartney",
+        "Nationality": "Australian",
+        "Gender": "Male",
+        "DOB": "1967-06-05",
+        "Email": "1876543@swin.edu.au",
+        "Phone_number": "0414563698",
+        "Highest_qualification": "PhD of Computer Engineering"
+    },
+    {
+        "pk_Convener_ID": "1245678",
+        "First_name": "Emma",
+        "Last_name": "Vega",
+        "Nationality": "Australian",
+        "Gender": "Female",
+        "DOB": "1972-02-04",
+        "Email": "1245678@swin.edu.au",
+        "Phone_number": "0444569987",
+        "Highest_qualification": "PhD of Software Engineering"
+    }
+]

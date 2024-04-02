@@ -1,0 +1,85 @@
+{
+    "Sessions":
+    [
+        {
+            "fk_Class_ID": "COS20007LEC01", 
+            "fk_Student_ID": "104563214"
+        },
+        {
+            "fk_Class_ID": "COS20007LEC01", 
+            "fk_Student_ID": "125463978"
+        },
+        {
+            "fk_Class_ID": "COS20007WOK01", 
+            "fk_Student_ID": "102365975"
+        },
+        {
+            "fk_Class_ID": "COS20007WOK01", 
+            "fk_Student_ID": "123068466"
+        },
+        {
+            "fk_Class_ID": "COS20007LAB01", 
+            "fk_Student_ID": "104563214"
+        },
+        {
+            "fk_Class_ID": "COS20007LAB01", 
+            "fk_Student_ID": "102365975"
+        },
+        {
+            "fk_Class_ID": "SWE30009LEC01", 
+            "fk_Student_ID": "102365975"
+        },
+        {
+            "fk_Class_ID": "SWE30009LEC01", 
+            "fk_Student_ID": "104563214"
+        },
+        {
+            "fk_Class_ID": "SWE30009WOK01", 
+            "fk_Student_ID": "125463978"
+        },
+        {
+            "fk_Class_ID": "SWE30009WOK01", 
+            "fk_Student_ID": "168306833"
+        },
+        {
+            "fk_Class_ID": "SWE30009LAB01", 
+            "fk_Student_ID": "104563214"
+        },
+        {
+            "fk_Class_ID": "TNE30023LEC01", 
+            "fk_Student_ID": "104563214"
+        },
+        {
+            "fk_Class_ID": "TNE30023LEC01", 
+            "fk_Student_ID": "125463978"
+        },
+        {
+            "fk_Class_ID": "TNE30023WOK01", 
+            "fk_Student_ID": "102365975"
+        },
+        {
+            "fk_Class_ID": "TNE30023WOK01", 
+            "fk_Student_ID": "123068466"
+        },
+        {
+            "fk_Class_ID": "TNE30023LAB01", 
+            "fk_Student_ID": "104563214"
+        },
+        {
+            "fk_Class_ID": "COS20015LEC01", 
+            "fk_Student_ID": "102365975"
+        },
+        {
+            "fk_Class_ID": "COS20015WOK01", 
+            "fk_Student_ID": "125463978"
+        },
+        {
+            "fk_Class_ID": "COS20015WOK01", 
+            "fk_Student_ID": "168306833"
+        },
+        {
+            "fk_Class_ID": "COS20015LAB01", 
+            "fk_Student_ID": "104563214"
+        }
+    ]
+}

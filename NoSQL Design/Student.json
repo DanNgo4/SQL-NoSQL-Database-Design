@@ -1,0 +1,60 @@
+{
+    "Student":
+    [
+        {
+            "pk_Student_ID": "104563214",
+            "First_name": "Kevin",
+            "Last_name": "Nguyen",
+            "Nationality": "Vietnamese",
+            "Gender": "Male",
+            "DOB": "2002-03-14",
+            "Email": "104563214@student.swin.edu.au",
+            "Phone_number": "0465369852",
+            "Highest_qualification": "High School Diploma"
+        },
+        {
+            "pk_Student_ID": "125463978",
+            "First_name": "Adam",
+            "Last_name": "West",
+            "Nationality": "Australian",
+            "Gender": "Male",
+            "DOB": "2004-06-26",
+            "Email": "125463978@student.swin.edu.au",
+            "Phone_number": "0423654123",
+            "Highest_qualification": "Foundation"
+        },
+        {
+            "pk_Student_ID": "102365975",
+            "First_name": "Jane",
+            "Last_name": "Kelly",
+            "Nationality": "Australian",
+            "Gender": "Other",
+            "DOB": "2003-11-06",
+            "Email": "102365975@student.swin.edu.au",
+            "Phone_number": "0425369963",
+            "Highest_qualification": "Bachelor of Computer Science"
+        },
+        {
+            "pk_Student_ID": "123068466",
+            "First_name": "Sofia",
+            "Last_name": "Garcia",
+            "Nationality": "Spanish",
+            "Gender": "Female",
+            "DOB": "2004-03-26",
+            "Email": "123068466@student.swin.edu.au",
+            "Phone_number": "0432653213",
+            "Highest_qualification": "High School Diploma"
+        },
+        {
+            "pk_Student_ID": "168306833",
+            "First_name": "Ibrahim",
+            "Last_name": "Abara",
+            "Nationality": "Nigerian",
+            "Gender": "Male",
+            "DOB": "2003-12-06",
+            "Email": "168306833@student.swin.edu.au",
+            "Phone_number": "0425556321",
+            "Highest_qualification": "Vocational Education"
+        }
+    ]
+}
