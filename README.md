@@ -1,5 +1,5 @@
 # SQL-NoSQL-Database-Design
-University Project, First Year Semester 2
+## University Project, First Year Semester 2
 
 Overview: This is a project where I design a MySQL database in the first half, then migrate it to a MongoDB in the second half to conduct some researches.
 
