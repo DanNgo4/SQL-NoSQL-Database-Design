@@ -23,7 +23,7 @@ The relationships between the entities are as follows:
 - Unit, Room, Tutor – Class: One unit, room, or tutor can be associated with multiple classes (1 to Many). Each class is associated with one unit, room, and tutor (1 to 1).
 - Class, Student – Sessions: One class or student can be associated with multiple sessions (1 to Many). Each session is associated with one class and one student (1 to 1).
 
-####UML Entity Relationship Diagram
+#### UML Entity Relationship Diagram
 The UML Entity Relationship Diagram visually represents the relationships and entities described above.
 ![image](https://github.com/DanNgo4/SQL-NoSQL-Database-Design/assets/127183060/fd9422f2-b4a1-4484-8d5e-6fea6108b37e)
 
